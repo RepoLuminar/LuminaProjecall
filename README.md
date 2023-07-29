@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1 style="color:red;">Hi there, I'm Luminary Studio👋</h1>
+  <h1>Hi there, I'm Luminary Studio👋</h1>
   
   ![Logo](https://i.ibb.co/NW6d3cK/20230729-121735.png)
   
@@ -29,11 +29,26 @@ I'm always eager to collaborate on innovative projects and contribute my skills 
 When I'm not coding, you'll find me exploring new indie games or sketching ideas for my next game project!
 Let's connect and build amazing experiences together! 🌟
 </p>
+
+
+
+## 🛠 Skills
+C#<br> C++<br> C<br> HTML<br> CSS
+
   <h3 style="color:red;">and here are my stats</h3>
   <img src="https://www.codewars.com/users/Luminary01/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Luminary01&show_icons=true&include_all_commits=true&theme=monokai" alt="Luminary Studio's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luminary01&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminary01&layout=compact&theme=monokai&langs_count=12"/><br />
 </div>
+<br></br>
 
+## Support
+For support, email luminarystudio1@gmil.com or join our Slack channel.
+<br></br>
+
+## License
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
