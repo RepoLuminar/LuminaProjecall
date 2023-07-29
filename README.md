@@ -1,4 +1,4 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Luminary Studio👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/Luminary01/badges/large"/><br /><br />
