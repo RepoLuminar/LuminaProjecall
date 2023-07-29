@@ -2,6 +2,9 @@
 
 <div align="center">
   <h1 style="color:red;">Hi there, I'm Luminary Studio👋</h1>
+  
+  ![Logo](https://i.ibb.co/NW6d3cK/20230729-121735.png)
+  
   <p>
 
 I am a passionate junior game developer and frontend web developer, striving to create captivating and immersive experiences through interactive games and beautifully designed web applications.
@@ -32,3 +35,5 @@ Let's connect and build amazing experiences together! 🌟
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luminary01&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminary01&layout=compact&theme=monokai&langs_count=12"/><br />
 </div>
+
+
