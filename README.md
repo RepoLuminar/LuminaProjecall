@@ -43,6 +43,12 @@ C#<br> C++<br> C<br> HTML<br> CSS
 </div>
 <br></br>
 
+## Screenshots
+<div style="display:flex;" align="center">
+  <img src="https://i.ibb.co/cQfZ5pN/Cuplikan-layar-2023-07-31-041755.png" alt="Cuplikan-layar-2023-07-31-041755" border="0" width="325px" height="auto">
+  <img src="https://i.ibb.co/B44YYCw/Cuplikan-layar-2023-07-31-050013.png" alt="Cuplikan-layar-2023-07-31-050013" border="0" width="325px" height="auto">
+<br><br>
+  
 ## Support
 For support, email luminarystudio1@gmil.com or join our Slack channel.
 <br></br>
