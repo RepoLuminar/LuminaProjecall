@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Player_Shooter : MonoBehaviour
+{
+   public float movementSpeed = 5f;
+    public GameObject projectilePrefab;
+    public Transform projectileSpawnPoint;
+    public float shootCooldown = 0.5f;
+    private float shootCooldownTimer;
+
+    private void Update()
+    {
+        // Movement
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        Vector3 movement = new Vector3(horizontalInput, 0f, verticalInput) * movementSpeed * Time.deltaTime;
+        transform.Translate(movement, Space.World);
+
+        // Shooting
+        if (Input.GetButtonDown("Fire1") && shootCooldownTimer <= 0f)
+        {
+            Shoot();
+            shootCooldownTimer = shootCooldown;
+        }
+
+        // Cooldown timer
+        if (shootCooldownTimer > 0f)
+        {
+            shootCooldownTimer -= Time.deltaTime;
+        }
+    }
+
+    private void Shoot()
+    {
+        if (projectilePrefab && projectileSpawnPoint)
+        {
+            Instantiate(projectilePrefab, projectileSpawnPoint.position, projectileSpawnPoint.rotation);
+        }
+    }
+}
