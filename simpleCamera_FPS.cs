@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraFPS : MonoBehaviour
+public class simpleCamera_FPS : MonoBehaviour
 {
      public float lookSpeed = 2f;
     public float maxLookUpAngle = 80f;
