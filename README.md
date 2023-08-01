@@ -33,7 +33,7 @@ Let's connect and build amazing experiences together! 🌟
 
 
 ## 🛠 Skills
-C#<br> C++<br> C<br> HTML<br> CSS
+C# | C++ | C | HTML | CSS
 
   <h3 style="color:red;">and here are my stats</h3>
   <img src="https://www.codewars.com/users/Luminary01/badges/large"/><br /><br />
