@@ -49,7 +49,7 @@ C# | C++ | C | HTML | CSS
   <img src="https://i.ibb.co/B44YYCw/Cuplikan-layar-2023-07-31-050013.png" alt="Cuplikan-layar-2023-07-31-050013" border="0" width="325px" height="auto">
   <a href="https://ibb.co/XDsFTxS"><img src="https://i.ibb.co/w7Wp1hM/Cuplikan-layar-2023-07-31-135049.png" alt="Cuplikan-layar-2023-07-31-135049" border="0" width="325px" height="auto"></a>
 <br><br>
-  
+
 ## Support
 For support, email luminarystudio1@gmil.com or join our Slack channel.
 <br></br>
